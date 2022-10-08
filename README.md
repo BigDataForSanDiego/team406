@@ -11,10 +11,6 @@
 #### A visual
  ![Elderly_People_and_Young_Athlete _Depression_after_Injury_Isolate_themselves _App_or_AI_1](https://user-images.githubusercontent.com/61675114/194730774-719aa9ae-9583-420d-85ec-4289a43332b2.png)
 
-![alt text](""C:\Users\alhag\Downloads\Elderly_People_and_Young_Athlete._Depression_after_Injury_Isolate_themselves._App_or_AI_1.png")
-<img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
-
-
 #### Hackathon Theme(s) (check a box(es))
 - [✔️] Artificial Intelligence/Machine Learning 
 > How can we leverage AI/ML Algorithms to help support diagnostics, clinical decisions, and forecast staffing and hospital capacity?
