@@ -29,10 +29,5 @@
 #### Team Coordinator GitHub Username: `CodeSaj`
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
-Anahid Ounigian,
-Saja Alallao -> CodeSaj,
-Gathungu Ndirangu,
-Emm Rivera ->emmrivera,
-Abdalla Alhag -> AbdallaAlhag->dev
-Rishika Reddy,
+Anahid Ounigian, Saja Alallao -> CodeSaj, Gathungu Ndirangu, Emm Rivera ->emmrivera, Abdalla Alhag -> AbdallaAlhag->dev, Rishika Reddy
 
