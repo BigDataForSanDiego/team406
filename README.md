@@ -2,10 +2,10 @@
 
 #### Team Number: 406
 
-#### Team Name: "Prevensia"   
+#### Team Name: "Sunny Buddy"   
   
 #### Your team’s hackathon idea in One sentence:
-##### ` AI App (Age, Ethnicity,gender) to give screening suggestions, and lifestyle recommendations/counseling. QA application that anaylzes the users input and generates an accurate assessment of the users inputs against the regional standard.`
+##### `App that focuses on helping users recover from depression after an event like an injury for an athlete or a fall for an eldery person. Includes an AI/Machine learning voice bot that reminds and communicates with the user.`
 
 
 #### A visual
@@ -26,7 +26,7 @@
 - [X] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `CodeSaj`
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
 Anahid Ounigian,
