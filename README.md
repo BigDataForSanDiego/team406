@@ -9,13 +9,13 @@
 
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/Hackathon-Promot-Img-1.png?raw=true "Big Data Hackathon for San Diego 2022")  
+![bigdatahackathon4sd]("C:\Users\alhag\Downloads\HackthonGithubPhoto"?raw=true "Big Data Hackathon for San Diego 2022")  
 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
 
 
 #### Hackathon Theme(s) (check a box(es))
-- [X] Artificial Intelligence/Machine Learning 
+- [✔️] Artificial Intelligence/Machine Learning 
 > How can we leverage AI/ML Algorithms to help support diagnostics, clinical decisions, and forecast staffing and hospital capacity?
 - [X] Mobile
 > Designing Mobile Apps to improve user experience before, during, and after a healthcare visit.
@@ -29,10 +29,10 @@
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
-Anahid Ounigian
-Saja Alallao
-Gathungu Ndirangu
-Emm Rivera
+Anahid Ounigian,
+Saja Alallao -> CodeSaj,
+Gathungu Ndirangu,
+Emm Rivera ->emmrivera,
 Abdalla Alhag -> AbdallaAlhag-dev
-Rishika Reddy
+Rishika Reddy,
 
