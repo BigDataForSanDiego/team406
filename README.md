@@ -2,15 +2,15 @@
 
 #### Team Number: 406
 
-#### Team Name: "TEAM NAME"   
+#### Team Name: "Prevensia"   
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### ` AI App (Age, Ethnicity,gender) to give screening suggestions, and lifestyle recommendations/counseling. QA application that anaylzes the users input and generates an accurate assessment of the users inputs against the regional standard.`
 
 
 #### A visual
  
-
+![alt text]("C:\Users\alhag\Downloads\HackthonGithubPhoto".png)
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
 
 
@@ -33,6 +33,6 @@ Anahid Ounigian,
 Saja Alallao -> CodeSaj,
 Gathungu Ndirangu,
 Emm Rivera ->emmrivera,
-Abdalla Alhag -> AbdallaAlhag-dev
+Abdalla Alhag -> AbdallaAlhag->dev
 Rishika Reddy,
 
