@@ -9,7 +9,7 @@
 
 
 #### A visual
-![bigdatahackathon4sd]("C:\Users\alhag\Downloads\HackthonGithubPhoto"?raw=true "Big Data Hackathon for San Diego 2022")  
+ 
 
 <img height="10%" width="80%" alt="hdma" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/master/templates/img/hdma2.png?raw=true"> 
 
